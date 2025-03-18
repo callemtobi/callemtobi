@@ -1,6 +1,6 @@
-## Naqeebullah Munawar here 👋!
+# Naqeebullah Munawar here 👋!
 
-# 💫 About Me:
+## 💫 About Me:
 On the front-end, I'm comfortable with HTML, CSS, JavaScript, Bootstrap, and JQuery to create responsive and user-friendly interfaces.<br>For back-end development, I work with NodeJS and ExpressJS to build robust server-side applications, connecting to MongoDB database.
 
 
