@@ -1,7 +1,7 @@
 # Hey there! 👋
 
 <p align="center">
-  <img src="./banner.png" alt="Profile Banner" width="100%" />
+  <img src="./githubBanner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <p align="center">
